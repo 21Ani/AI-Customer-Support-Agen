@@ -5,3 +5,4 @@ __pycache__/
 *.pyc
 .env
 Data Preprocessing/*.csv
+vector_db/
