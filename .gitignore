@@ -9,4 +9,3 @@ vector_db/
 .env
 .env.*
 !.env.example
-Evaluation/evaluation_results.csv
