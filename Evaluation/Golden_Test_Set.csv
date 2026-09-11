@@ -1,0 +1,21 @@
+User_Question,Intent,Reply
+I cannot sign in to my Xbox account,account_login,"Which issue are you facing: changed password, forgot password, forgot email/phone, error message, or Xbox network sign-in problem?"
+I forgot my Microsoft account password. How can I reset it?,account_login,"Go to Reset your password, enter your Microsoft account email, verify your identity with a security code, and then create a new password"
+Why was I charged twice for my Xbox subscription?,payment_billing,"You may see what looks like a double charge if a renewal, a retried past-due payment, multiple purchases grouped as one, or another active XBOX subscription on a different account were all billed around the same time."
+How do I request a refund for a game I purchased?,refund,"Sign in to the purchasing account, open purchase history, select the game, and submit a refund request with your reason."
+My Game Pass subscription is not working,subscription,"Check that your Xbox Game Pass is active, the game is still available, your device meets its requirements, and Xbox services are online."
+My Xbox controller will not connect to the console,controller,"Power cycle your console, test the controller via USB, then re-sync it wirelessly if it works."
+The buttons on my controller are not responding,controller,"Check the game’s controller settings, then review or reset your button mapping in Settings, and test the buttons in the XBOX Accessories app."
+My Xbox keeps disconnecting from Wi-Fi,network_connection,"Power cycle your Xbox and router, move the console closer to the router, and reduce Wi-Fi interference from walls or metal objects."
+I cannot play multiplayer games online,network_connection,"Check that your subscription is active, the game needs no extra content, and test your connection and NAT type under Settings"
+My Xbox console will not turn on,console_hardware,"Unplug the Xbox for 10 seconds, reconnect it, press the Xbox button, and check the outlet and cables if it still won’t turn on."
+My console turns off while I am playing,console_hardware,"This usually means overheating, power, or auto-shutdown settings—cool the console, ensure good ventilation, and check Settings"
+Why is my game download stuck?,game_installation,"Check Xbox service status, available storage, and the download queue in My games & apps to ensure the install isn’t paused."
+I cannot install a game on my Xbox,game_installation,"Check Xbox service status, sign in, ensure enough storage and system updates, then resume or restart the install from My games & apps"
+My game crashes every time I open it.,game_error,"Check for XBOX service issues, then exit and restart the game, power cycle your console, and verify your network connection if it still crashes."
+I receive an error when trying to start my game,game_error,"Finish all updates, restart the game, and power cycle the console if needed."
+My Xbox is running very slowly,console_hardware,Run Settings > General > Network settings > Test network connection and Test network speed & statistics to check for network issues.
+I cannot access my purchased games,payment_billing,Sign in with the purchasing account and check your order history to confirm the games weren’t refunded or canceled and you still have the license.
+How can I change my Xbox account email address?,account_login,"Go to account.microsoft.com > Your info > Manage how you sign in, add an email alias, and set it as your primary sign-in address."
+I think someone has hacked my Xbox account,account_login,Reset your Microsoft account password immediately and follow the compromised account steps to secure your info and lock out any attacker.
+I was charged for something I did not purchase,payment_billing,"Sign in to your Microsoft account, check Xbox purchase history for the charge, and submit a refund request if it’s unauthorized."

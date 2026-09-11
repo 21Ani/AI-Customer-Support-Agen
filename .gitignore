@@ -6,3 +6,7 @@ __pycache__/
 .env
 Data Preprocessing/*.csv
 vector_db/
+.env
+.env.*
+!.env.example
+Evaluation/evaluation_results.csv
