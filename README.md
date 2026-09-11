@@ -2,6 +2,10 @@
 
 An AI customer-support agent built from real Xbox Twitter-support conversations. It classifies customer messages, retrieves similar historical conversations, drafts grounded replies, and escalates sensitive or low-confidence cases.
 
+## Demo Video
+
+[Watch the project demo](https://drive.google.com/file/d/1MgZPrCgrioxppli9R6g0dJTDklivx0W6/view?usp=sharing)
+
 ## Requirements
 
 - Python 3.10+
@@ -75,6 +79,8 @@ python -m flask --app PipeLine.server run --host 127.0.0.1 --port 5000
 Open [http://127.0.0.1:5000](http://127.0.0.1:5000) in a browser.
 
 The web interface includes an Xbox support chat and a **Golden eval** button that displays the evaluation metrics and the contents of `Evaluation/evaluation_results.csv`.
+
+
 
 ## Run Evaluation
 
