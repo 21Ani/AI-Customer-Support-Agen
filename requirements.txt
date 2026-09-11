@@ -1,0 +1,7 @@
+chromadb
+flask
+langgraph
+ollama
+pandas
+scikit-learn
+sentence-transformers
